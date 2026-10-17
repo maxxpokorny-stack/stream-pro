@@ -1,0 +1,1 @@
+(Due to length limits, the full YAML configuration for building the Stream Pro APK—including checkout, JDK 17, Android SDK and NDK setup, and the Gradle build/upload steps—should be placed into your .github/workflows/main.yml file as required for the workflow).
